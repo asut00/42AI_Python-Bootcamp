@@ -1,4 +1,4 @@
-# Python Bootcamp with 42AI
+# Python Bootcamp with 42AI 🐍
 
 Welcome to the repository for my Python Bootcamp completed with **42AI**, the artificial intelligence association of **École 42**. This one-week intensive bootcamp was designed to provide a strong foundation in Python programming, focusing on its core concepts, best practices, and applications in data science and AI.
 
